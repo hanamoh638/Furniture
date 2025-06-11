@@ -1,0 +1,9 @@
+C:\Users\HP\Downloads\FurnitureAPI\bin\Debug\net8.0\publish\FurnitureAPI.exe
+C:\Users\HP\Downloads\FurnitureAPI\bin\Debug\net8.0\publish\FurnitureAPI.dll
+C:\Users\HP\Downloads\FurnitureAPI\bin\Debug\net8.0\publish\FurnitureAPI.deps.json
+C:\Users\HP\Downloads\FurnitureAPI\bin\Debug\net8.0\publish\FurnitureAPI.runtimeconfig.json
+C:\Users\HP\Downloads\FurnitureAPI\bin\Debug\net8.0\publish\FurnitureAPI.pdb
+C:\Users\HP\Downloads\FurnitureAPI\bin\Debug\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\HP\Downloads\FurnitureAPI\bin\Debug\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Downloads\FurnitureAPI\bin\Debug\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Downloads\FurnitureAPI\bin\Debug\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

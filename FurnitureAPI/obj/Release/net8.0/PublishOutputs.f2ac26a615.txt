@@ -1,0 +1,9 @@
+D:\GP\FurnitureAPI\FurnitureAPI\publish\FurnitureAPI.exe
+D:\GP\FurnitureAPI\FurnitureAPI\publish\FurnitureAPI.dll
+D:\GP\FurnitureAPI\FurnitureAPI\publish\FurnitureAPI.deps.json
+D:\GP\FurnitureAPI\FurnitureAPI\publish\FurnitureAPI.runtimeconfig.json
+D:\GP\FurnitureAPI\FurnitureAPI\publish\FurnitureAPI.pdb
+D:\GP\FurnitureAPI\FurnitureAPI\publish\Microsoft.OpenApi.dll
+D:\GP\FurnitureAPI\FurnitureAPI\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\GP\FurnitureAPI\FurnitureAPI\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GP\FurnitureAPI\FurnitureAPI\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
